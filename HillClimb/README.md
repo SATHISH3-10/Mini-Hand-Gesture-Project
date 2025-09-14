@@ -26,7 +26,7 @@ A **Python application** that lets you control *Hill Climb Racing* using hand ge
 1. Clone or download this project  
    ```bash
    git clone https://github.com/your-username/HillClimb-Gesture-Control.git
-   cd HillClimb-Gesture-Contro
+   cd HillClimb-Gesture-Control
 2. Install required packages:
    ```bash
    pip install -r requirements.txt
